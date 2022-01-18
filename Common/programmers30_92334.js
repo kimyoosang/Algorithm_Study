@@ -90,6 +90,5 @@ function solution(id_list, report, k) {
     }
   }
 
-  console.log(answer)
   return answer
 }
