@@ -1,7 +1,7 @@
 //https://programmers.co.kr/learn/courses/30/lessons/42576
 //완주하지 못한 선수
 
-//1
+//1. 제출한 답안
 function solution(participant, completion) {
   participant.sort()
   completion.sort()
